@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.jumbotron {
+    background-color: #f8f9fa;
+    padding: 2rem 1rem;
+}
+
+.card {
+    margin-bottom: 2rem;
+}
+
+.container {
+    max-width: 960px;
+}
+
+.table-responsive {
+    margin-top: 2rem;
+}
+
+#gallery img {
+    width: 100%;
+    height: auto;
+}
